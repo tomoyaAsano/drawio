@@ -72,9 +72,6 @@
         </mxCell>
         <mxCell id="gkE4Gjot9KUy3iQMx6U6-42" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startArrow=async;startFill=0;endArrow=async;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endFill=0;" parent="gkE4Gjot9KUy3iQMx6U6-1" source="my0-MdIcYANT4wyN1NvB-2" target="gkE4Gjot9KUy3iQMx6U6-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="430" />
-            </Array>
             <mxPoint x="410" y="389.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
